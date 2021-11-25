@@ -1,2 +1,6 @@
 *.xml
 *.csv
+
+config.yml
+
+__pycache__
